@@ -3,7 +3,7 @@
 
 
 
-// This code is provided to you by EKG
+// This code is provided to you by ege621
 #include <Wire.h> 
 byte myData[10];  //array to hold data coming from sensor
 
